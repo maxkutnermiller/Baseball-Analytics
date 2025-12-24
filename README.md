@@ -8,7 +8,3 @@ This project explores play-by-play Major League Baseball data to uncover pattern
 
 The analysis is presented through interactive Tableau dashboards and story points, emphasizing clear comparisons, distributions, and edge cases rather than surface-level aggregates. Together, the visuals highlight how context — inning, lineup spot, ballpark, and handedness — shapes outcomes across thousands of plays.
 Cleaning and structuring inconsistent source data
-
-Analytical query development
-
-Working with Snowflake
