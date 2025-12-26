@@ -1,4 +1,4 @@
-[![2-Minute Project Breakdown](https://img.youtube.com/vi/ui7VZz_9uFM/maxresdefault.jpg)]([[https://youtu.be/7lbdTC3QQJs](https://www.youtube.com/watch?v=ui7VZz_9uFM)](https://youtu.be/ui7VZz_9uFM))
+[![Watch on YouTube](https://img.youtube.com/vi/ui7VZz_9uFM/maxresdefault.jpg)](https://www.youtube.com/watch?v=ui7VZz_9uFM)
 
 
 [View the interactive Tableau dashboard](https://public.tableau.com/views/Baseball_17666019326870/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
